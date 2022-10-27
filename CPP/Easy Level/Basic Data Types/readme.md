@@ -16,6 +16,7 @@ Sample Input Format
 3 12345678912345 a 334.23 14049.30493
 
 Sample Output Format
+
     3
     12345678912345
     a
