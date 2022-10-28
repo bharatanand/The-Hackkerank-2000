@@ -26,7 +26,6 @@ else {
 3.if - else if - else: In this structure, dependent statements are chained together and the condition or each statement is only checked if all prior conditions in the chain evaluated to false. Once a condition evaluates to true, the bracketed code associated with that statement is executed and the program then skips to the end of the chain of statements and continues executing. If each condition in the chain evaluates to false, then the body of bracketed code in the else block at the end is executed.
 
 ```python
-
 if(first condition) {
     ...
 }
@@ -42,7 +41,6 @@ else if((n-1)'th condition) {
 else {
     ...
 }
-
 ```
 
 Given a positive integer denoting n, do the following:
@@ -56,7 +54,7 @@ A single integer denoting n.
 Constraints
 
 ```python
-    1<=n<=10^9 
+1<=n<=10^9 
 ```
 
 Output Format
