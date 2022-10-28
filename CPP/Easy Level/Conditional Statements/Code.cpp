@@ -1,4 +1,3 @@
-
 #include <bits/stdc++.h>
 // It is basically a header file that includes every standard library.
 // In programming contests, using this file is a good idea, when you want to reduce the time wasted in doing chores;
@@ -8,40 +7,38 @@ int main()
 {
     int n;
     cin >> n;
-    cin.ignore(numeric_limits<streamsize>::max(), '\n'); //clear buffer before taking new
+    cin.ignore(numeric_limits<streamsize>::max(), '\n'); // clear buffer before taking new
     // cin.ignore() function is used which is used to ignore or clear one or more characters from the input buffer.
     if (n == 1)
-    {
+
         cout << "one";
-        else if (n == 2)
-                cout
+    else if (n == 2)
+        cout
             << "two";
-        else if (n == 3)
-                cout
+    else if (n == 3)
+        cout
             << "three";
-        else if (n == 4)
-                cout
+    else if (n == 4)
+        cout
             << "four";
-        else if (n == 5)
-                cout
+    else if (n == 5)
+        cout
             << "five";
-        else if (n == 6)
-                cout
+    else if (n == 6)
+        cout
             << "six";
-        else if (n == 7)
-                cout
+    else if (n == 7)
+        cout
             << "seven";
-        else if (n == 8)
-                cout
+    else if (n == 8)
+        cout
             << "eight";
-        else if (n == 9)
-                cout
+    else if (n == 9)
+        cout
             << "nine";
-    }
+
     else
-    {
         cout << "Greater than 9";
-    }
     return 0;
 }
 
