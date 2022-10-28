@@ -59,39 +59,3 @@ Constraints
 
 Output Format
 If 1<=n<=9, then print the lowercase English word corresponding to the number(e.g one for 1, two for 2 etc), if n > 9 Then print Greater than 9.
-
-Example 0 :
-Sample Input 0
-
-5
-
-Sample Output 0
-
-five
-
-Explanation 0
-five is the English word for the number 5.
-
-Example 1 :
-Sample Input 1
-
-8
-
-Sample Output 1
-
-eight
-
-Explanation 1
-eight is the English word for the number 8.
-
-Example 2 :
-Sample Input 2
-
-44
-
-Sample Output 2
-
-Greater than 9
-
-Explanation 2
-n = 44 is greater than 9, so we print Greater than 9.
