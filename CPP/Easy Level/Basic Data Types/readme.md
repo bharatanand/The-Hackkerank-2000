@@ -1,4 +1,4 @@
-Some C++ data types, their format specifiers, and their most common bit widths are as follows:
+## Some C++ data types, their format specifiers, and their most common bit widths are as follows:
 
     Int ("%d"): 32 Bit integer
     Long ("%ld"): 64 bit integer
@@ -23,4 +23,3 @@ Sample Output Format
     a
     334.230
     14049.304930000
-
